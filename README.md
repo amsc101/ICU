@@ -66,7 +66,7 @@ A continuación se puede ver el pipeline que hemos seguido en el proyecto:
  En este cuaderno visualizamos las variables utilizando histogramas y diagramas de dispersion
  
  
- ![Image](http://url/a.png)
+ ![Image](https://github.com/vdvran/ICU/blob/master/imagenes/visualizacion.png)
 
  ## ICU Mortality Prediction Preprocessing Notebook
  En este cuaderno hemos preprocesado cada variable de forma independiente identificando los outliers e imputando los valores nulos. También hemos eliminado las variables con valores unicos y aquellas que tenían más de un 60% de valores nulos
@@ -81,8 +81,10 @@ A continuación se puede ver el pipeline que hemos seguido en el proyecto:
  ## ICU Mortality Prediction Classification Notebook
  En este cuaderno vamos a implementar los clasificadores para ello:
 
-1. Dividir en train y test 
+1. Dividir en train y test:
 
+
+`x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=1)`
 
 2. Balancear los datos por random *oversampling* y *undersampling*
 
@@ -95,7 +97,7 @@ A continuación se puede ver el pipeline que hemos seguido en el proyecto:
 ## Resultados 
 Vamos a analizar las prestaciones de los clasificadores mediante las curvas ROC y las matrices de confusión.
 
-
+![Image](https://github.com/vdvran/ICU/blob/master/imagenes/ej_clas.png)
 ## Presentación
 Presentación de Overleaf para información más detallada
 
