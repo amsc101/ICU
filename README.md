@@ -3,8 +3,7 @@
 Partiendo de los datos disponibles del Datathon 2020. Vamos a intentar crear un modelos que utilicen los datos de las primeras 24h en la UCI para predecir la probabilidad de supervivencia de los pacientes.
 
 ## Base de datos 
-Se encuentra en kaggle dentro del challenge *WiDS Datathon 2020*:
-[Link](https://www.kaggle.com/c/widsdatathon2020/data)	
+Se encuentra en kaggle dentro del challenge [*WiDS Datathon 2020*](https://www.kaggle.com/c/widsdatathon2020/data)	
 
 ## Descripción 
 Hemos dividido el proyecto en 3 Notebooks de python diferentes:
@@ -100,7 +99,7 @@ Vamos a analizar las prestaciones de los clasificadores mediante las curvas ROC 
 ![Image](https://github.com/vdvran/ICU/blob/master/imagenes/ej_clas.png)
 ## Presentación
 Presentación de Overleaf para información más detallada:
-[Link](https://github.com/vdvran/ICU/blob/master/ICU_Mortality_Prediction.pdf)
+[ICU_Mortality_Prediction.pdf](https://github.com/vdvran/ICU/blob/master/ICU_Mortality_Prediction.pdf)
 
  
  
