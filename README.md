@@ -99,8 +99,8 @@ Vamos a analizar las prestaciones de los clasificadores mediante las curvas ROC 
 
 ![Image](https://github.com/vdvran/ICU/blob/master/imagenes/ej_clas.png)
 ## Presentación
-Presentación de Overleaf para información más detallada
-
+Presentación de Overleaf para información más detallada:
+[Link](https://github.com/vdvran/ICU/blob/master/ICU_Mortality_Prediction.pdf)
 
  
  
