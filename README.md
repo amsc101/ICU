@@ -3,6 +3,8 @@
 Partiendo de los datos disponibles del Datathon 2020. Vamos a intentar crear un modelos que utilicen los datos de las primeras 24h en la UCI para predecir la probabilidad de supervivencia de los pacientes.
 
 ## Base de datos 
+Se encuentra en kaggle dentro del challenge *WiDS Datathon 2020*:
+[Link](https://www.kaggle.com/c/widsdatathon2020/data)	
 
 ## Descripción 
 Hemos dividido el proyecto en 3 Notebooks de python diferentes:
