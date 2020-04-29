@@ -15,29 +15,28 @@ Hemos dividido el proyecto en 3 Notebooks de python diferentes:
 A continuación se puede ver el pipeline que hemos seguido en el proyecto:
 
 
-**1. General info**
+**1. Información general**
 
-* df visualisation (ICU Mortality Prediction Visualization Notebook)
+* Visualización de la base de datos (ICU Mortality Prediction Visualization Notebook)
 
-*  drop variables with a lot of missing values (ICU Mortality Prediction Preprocessing Notebook)
+*  Eliminar variables con muchos valores perdidos (ICU Mortality Prediction Preprocessing Notebook)
   
   
-**2. Remove outliers** (ICU Mortality Prediction Preprocessing Notebook)
+**2. Eliminar outliers** (ICU Mortality Prediction Preprocessing Notebook)
 
 
-**3. Replace missing values** (ICU Mortality Prediction Preprocessing Notebook)
+**3. Remplazar valores nulos** (ICU Mortality Prediction Preprocessing Notebook)
 
 
 **4. One Hot Encoding** (ICU Mortality Prediction Preprocessing Notebook)
 
 
-**5. Normalisation** (ICU Mortality Prediction Classification Notebook)
+**5. Normalización** (ICU Mortality Prediction Classification Notebook)
 
 * x, y and train_test_split 
 
-* Standarisation 
 
-**6. Feature Selection** (ICU Mortality Prediction Classification Notebook)
+**6. Selección de características** (ICU Mortality Prediction Classification Notebook)
 
 * Feature importance
 
@@ -45,13 +44,13 @@ A continuación se puede ver el pipeline que hemos seguido en el proyecto:
 
 * Eliminación Recursiva de atributos --> 
  
- **7. Unbalanced** (ICU Mortality Prediction Classification Notebook)
+ **7. Balanceo** (ICU Mortality Prediction Classification Notebook)
     
 * Undersampling
 
 * Oversampling
  
- **8. Classification** (ICU Mortality Prediction Classification Notebook)
+ **8. Clasificación** (ICU Mortality Prediction Classification Notebook)
  
 * LDA (Fisher)
  
@@ -61,7 +60,7 @@ A continuación se puede ver el pipeline que hemos seguido en el proyecto:
    
 * Random forest
     
- **9.Comparison**(ICU Mortality Prediction Classification Notebook)
+ **9.Comparación**(ICU Mortality Prediction Classification Notebook)
  
  ## ICU Mortality Prediction Visualization Notebook 
  En este cuaderno visualizamos las variables utilizando histogramas y diagramas de dispersion
